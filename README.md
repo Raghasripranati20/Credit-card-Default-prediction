@@ -1,5 +1,6 @@
 # Credit-card-Default-prediction
 I. INTRODUCTION
+
 In order to reduce possible losses in the current financial
 environment, banks along with other financial companies must
 effectively manage credit risk. The potential for consumers to
@@ -27,6 +28,7 @@ improve risk management procedures and enhance the credit decision making proces
 
 
 II. METHODOLOGIES
+
 A. Dataset Description
 The relevant dataset for this project has 21000 rows and
 25 features and does not contain any missing data. It includes
@@ -41,7 +43,6 @@ C. Feature Engineering
 New variables such as average payment delay, credit to cash
 ratio, and payment punctuality were created in this study to
 capture deeper behaviors in a bid to improve model accuracy.
-
 D. Machine Learning Algorithms:
 Consequently, in our credit card default prediction project,
 several machine learning algorithms were used to check how
@@ -72,6 +73,7 @@ powerful approach to capture intricate patterns from the data.
 
 
 III.PERFORMANCE METRICS
+
 After that, it is important to assess the performance of
 these machine learning algorithms developed by applying the
 predictive model. To evaluate the devised predictions a number
@@ -106,6 +108,7 @@ but their impressive performance was demonstrated in AUC.
 
 
 CONCLUSION AND FUTURE SCOPE
+
 In order to help financial institutions manage credit risk,
 this project shows how machine learning models may be used
 to predict credit card defaults with high accuracy. Combining
@@ -122,62 +125,81 @@ procedures improves operational effectiveness while reducing
 monetary losses
 
 REFERENCES
+
 [1] Bakoben, M., Bellotti, T. and Adams, N. (2017) Identification of Credit
 Risk Based on Cluster Analysis of Account Behaviours. Department
 of Mathematics, Imperial College London, London SW7 2AZ, United
 Kingdom.
+
 [2] AghaeiRad, A., Chen, N. and Ribeiro, B. (2016). Improve credit scoring
 using transfer of learned knowledge from self-organizing map. Neural
 Computing and Applications, 28(6), p.1329-1342.
+
 [3] A, A., Venkatesh, A. and Gracia, S. (2016). Prediction of CreditCard Defaulters: A Comparative Study on Performance of Classifiers.
 International Journal of Computer Applications, 145(7), p.36-41.
+
 [4] Ghasemi, A., Motahari, A.S. and Khandani, A.K. (2010) Interference
 alignment for the K user MIMO interference channel. In Information
 Theory Proceedings (ISIT), 2010 IEEE International Symposium on (p.360-364). IEEE.
+
 [5] Gupta, B., Tewari, A., Jain, A. and Agrawal, D. (2016). Fighting
 against phishing attacks: state of the art and future challenges. Neural
 Computing and Applications, 28(12), pp.3629-3654.
+
 [6] Yeh, I. (2017) UCI Machine Learning Repository: default of
 credit card clients Data Set. [online] Archive.ics.uci.edu. Available
 at: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 [Accessed 13 Nov. 2017]. References
+
 [7] Bellotti, T. and Crook, J., 2013. Forecasting and stress testing credit
 card default using dynamic models. International Journal of Forecasting,
 29(4), pp.563-574.
+
 [8] Demchenko, Y., De Laat, C. and Membrey, P. (2014) Defining architecture components of the Big Data Ecosystem. In Collaboration
 Technologies and Systems (CTS), 2014 International Conference on (pp.
 104-112). IEEE.
+
 [9] Azimi, A. & Hosseini, M. (2017) The hybrid approach based on
 genetic algorithm and neural network to predict financial fraud in banks.
 International Journal of I
+
 [10] LaMagna, M. (2017) Americans now have the highest credit-card debt in
 U.S. history. [online] MarketWatch. Available at: http://Americans now
 have the highest credit-card debt in U.S. history [Accessed 13 Nov.
 2017].
+
 [11] Subba, N. and Lahiri, D. (2017) Rising credit card delinquencies to
 add to U.S. banks’ worries. [online] Reuters. Available at: http://Rising
 credit card delinquencies to add to U.S. banks’ worries [Accessed 13
 Nov. 2017].
+
 [12] Harrell, F. (2015). Regression Modeling Strategies: With Applications
 to Linear Models, Logistic and Ordinal Regre
+
 [14] Lin, K. (2017) Taiwan’s Bank SinoPac leverages advanced analytics to
 better understand customers’ credit card usage patterns. [online] bankITasia. Available at: https://bankitasia.com/bankitasia/customerinsights–
 analytics/taiwans-bank-sinopac-leverages-advancedanalytics-to-betterunderstand-customers-credit-card-usage-patterns/ [Accessed 13 Nov.
 2017].
+
 [15] Verikas, A., Kalsyte, Z., Bacauskiene, M. and Gelzinis, A. (2009) Hybrid
 and ensemble-based soft computing techniques in bankruptcy prediction:
 a survey. Soft Computing, 14(9), p.995-1010. 19
+
 [16] Available at: http://Rising credit card delinquencies to add to U.S. banks’
 worries [Accessed 13 Nov. 2017].
+
 [17] Hargreaves, I., Roth, D., Karim, M., Nayebi, M. & Ruhe, G. (2017)
 Effective Customer Relationship Management at ATB Financial: A case
 study on industry- academia collaboration in data analytics. Springer
 International Publishing.
+
 [18] Yap, B., Ong, S. and Husain, N. (2011) Using data mining to improve
 assessment of credit worthiness via credit scoring models. Expert
 Systems with Applications, 38(10), p.13274-13283.
+
 [19] Xia, Y., Liu, C., Li, Y. and Liu, N. (2017) A boosted decision tree approach using Bayesian hyper-parameter optimization for credit scoring.
 Expert Systems with Applications, 78, p.225- 241.
+
 [20] Wu, K.Y., Zuo, G.L., Li, X.F., Ye, Q., Deng, Y.Q., Huang, X.Y., Cao,
 W.C., Qin, C.F. and Luo, Z.G. (2016) Vertical transmission of Zika virus
 targeting the radial glial cells affects cortex development of offspring
